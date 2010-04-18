@@ -19,7 +19,7 @@ RIALY(from "Building **RIA**s Easi**ly**") is a lightweight design pattern tool 
 
 ## Documentation
 
-+ API Docs
++ [API Docs](http://mackato.github.com/rialy-flex-framework/asdoc/)
 
 ## ToDo
 
