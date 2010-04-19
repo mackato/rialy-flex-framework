@@ -7,6 +7,8 @@ RIALY(from "Building **RIA**s Easi**ly**") is a lightweight design pattern tool 
 + RIALY offers an IDE-free build process that uses [Maven](http://maven.apache.org/) and [Flexmojos](http://flexmojos.sonatype.org/).
 + RIALY builds the application in each environment such as "development" and "production".
 
+![Flowing on the RIALY](http://mackato.github.com/rialy-flex-framework/images/RialyFlowDiagram.png)
+
 ## Requirements
 
 + Adobe Flex 3 SDK or Flex Builder 3.
