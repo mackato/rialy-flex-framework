@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (c) 2010. AIRS, inc.
+  -->
+<mx:Application
+    xmlns:mx="http://www.adobe.com/2006/mxml"
+    xmlns:views="org.rialy.flex3app.views.*"
+    initialize="boot(this)">
+  <views:AppPanel id="appPanel" />
+</mx:Application>

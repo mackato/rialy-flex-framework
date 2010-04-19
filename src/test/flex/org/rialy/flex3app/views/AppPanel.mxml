@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<mx:Panel
+    xmlns:mx="http://www.adobe.com/2006/mxml"
+    xmlns:views="org.rialy.flex3app.views.*">
+  <mx:Number id="count"/>
+  <mx:VBox>
+    <mx:Button id="plusButton" label="+"/>
+    <mx:Button id="minusButton" label="-"/>
+    <mx:Text text="{count}"/>
+  </mx:VBox>
+  <views:NoHelperPanel/>
+</mx:Panel>
