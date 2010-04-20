@@ -25,7 +25,7 @@ RIALY(from "Building **RIA**s Easi**ly**") is a lightweight design pattern tool 
 
 ## Articles
 
-+ [Flexアプリケーション開発をRailsライクに簡単にする軽量フレームワーク「RIALY」](http://blog.airs.co.jp/2009/04/20/rails-like-flex-framework-rialy.html)(Japanese Introduction)
++ [Flexアプリケーション開発をRailsライクに簡単にする軽量フレームワーク「RIALY」](http://blog.airs.co.jp/2010/04/20/rails-like-flex-framework-rialy.html)(Japanese Introduction)
 
 ## ToDo
 
