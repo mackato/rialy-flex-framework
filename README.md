@@ -23,6 +23,10 @@ RIALY(from "Building **RIA**s Easi**ly**") is a lightweight design pattern tool 
 
 + [API Docs](http://mackato.github.com/rialy-flex-framework/asdoc/)
 
+## Articles
+
++ [Flexアプリケーション開発をRailsライクに簡単にする軽量フレームワーク「RIALY」](http://blog.airs.co.jp/2009/04/20/rails-like-flex-framework-rialy.html)(Japanese Introduction)
+
 ## ToDo
 
 + Support Adobe AIR and Flex 4.
