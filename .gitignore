@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 config_for_tests.xml
 rialy-flex-framework-1.0.0-SNAPSHOT-config-report.xml
 rialy-flex-framework.iml

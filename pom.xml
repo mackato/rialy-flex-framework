@@ -7,7 +7,7 @@
 
   <groupId>org.rialy</groupId>
   <artifactId>rialy-flex-framework</artifactId>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <packaging>swc</packaging>
 
   <name>RIALY RIA Framework for Adobe Flex</name>

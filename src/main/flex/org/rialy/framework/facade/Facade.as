@@ -7,7 +7,6 @@ import flash.utils.Dictionary;
 import flash.utils.getDefinitionByName;
 import flash.utils.getQualifiedClassName;
 
-import mx.core.Application;
 import mx.core.UIComponent;
 import mx.utils.StringUtil;
 
@@ -97,7 +96,7 @@ public class Facade {
      * @param app The application main View.
      * @param helperClass The ViewHelper class that manages the application main View.
      */
-    public function registerApplication(app:Application, helperClass:Class):void {
+    public function registerApplication(app:UIComponent, helperClass:Class):void {
         registerAndStore(app, helperClass);
     }
 
@@ -240,6 +239,10 @@ public class Facade {
         var viewId:String = getObjectIdentifier(view, id);
         _views[viewId] = view;
         _helpers[viewId] = helper;
+    }
+
+    public function unwatch(prop:String):void {
+        super.unwatch(prop);
     }
 }
 
