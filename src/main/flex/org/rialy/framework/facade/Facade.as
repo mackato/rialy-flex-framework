@@ -240,10 +240,6 @@ public class Facade {
         _views[viewId] = view;
         _helpers[viewId] = helper;
     }
-
-    public function unwatch(prop:String):void {
-        super.unwatch(prop);
-    }
 }
 
 }
